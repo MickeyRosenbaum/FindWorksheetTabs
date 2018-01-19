@@ -1,0 +1,16 @@
+C:\Users\MRosenbaum\Desktop\FindWorksheetTabs\FindWorksheetTabs\bin\Debug\FindWorksheetTabs.exe.config
+C:\Users\MRosenbaum\Desktop\FindWorksheetTabs\FindWorksheetTabs\obj\Debug\FindWorksheetTabs.vbprojResolveAssemblyReference.cache
+C:\Users\MRosenbaum\Desktop\FindWorksheetTabs\FindWorksheetTabs\obj\Debug\FindWorksheetTabs.vbproj.ResolveComReference.cache
+C:\Users\MRosenbaum\Desktop\FindWorksheetTabs\FindWorksheetTabs\obj\Debug\FindWorksheetTabs.Form1.resources
+C:\Users\MRosenbaum\Desktop\FindWorksheetTabs\FindWorksheetTabs\obj\Debug\FindWorksheetTabs.Resources.resources
+C:\Users\MRosenbaum\Desktop\FindWorksheetTabs\FindWorksheetTabs\obj\Debug\FindWorksheetTabs.vbproj.GenerateResource.Cache
+C:\Users\MRosenbaum\Desktop\FindWorksheetTabs\FindWorksheetTabs\obj\Debug\FindWorksheetTabs.xml
+C:\Users\MRosenbaum\Desktop\FindWorksheetTabs\FindWorksheetTabs\bin\Debug\FindWorksheetTabs.exe
+C:\Users\MRosenbaum\Desktop\FindWorksheetTabs\FindWorksheetTabs\bin\Debug\FindWorksheetTabs.pdb
+C:\Users\MRosenbaum\Desktop\FindWorksheetTabs\FindWorksheetTabs\bin\Debug\FindWorksheetTabs.xml
+C:\Users\MRosenbaum\Desktop\FindWorksheetTabs\FindWorksheetTabs\obj\Debug\FindWorksheetTabs.exe
+C:\Users\MRosenbaum\Desktop\FindWorksheetTabs\FindWorksheetTabs\obj\Debug\FindWorksheetTabs.pdb
+C:\Users\MRosenbaum\Desktop\FindWorksheetTabs\FindWorksheetTabs\bin\Debug\FindWorksheetTabs.exe.manifest
+C:\Users\MRosenbaum\Desktop\FindWorksheetTabs\FindWorksheetTabs\bin\Debug\FindWorksheetTabs.application
+C:\Users\MRosenbaum\Desktop\FindWorksheetTabs\FindWorksheetTabs\obj\Debug\FindWorksheetTabs.exe.manifest
+C:\Users\MRosenbaum\Desktop\FindWorksheetTabs\FindWorksheetTabs\obj\Debug\FindWorksheetTabs.application
